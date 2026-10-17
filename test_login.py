@@ -17,3 +17,6 @@ def test_login_invalid_password():
 
 def test_login_empty_username():
     assert login("", "AttendX@123") is False
+
+def test_login_empty_password():
+    assert login("student01", "") is False
