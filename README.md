@@ -1,4 +1,4 @@
-# AttendX Test Scripts
+# AttendX Test Scripts:
 
 ## Project Description
 This repository contains sample automated test scripts
